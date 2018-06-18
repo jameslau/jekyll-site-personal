@@ -32,7 +32,6 @@ plugins:
   - jekyll-feed
 sass:
     sass_dir: _sass
-    sass_dir: _lib
     style: compressed
 
 # Exclude from processing.
