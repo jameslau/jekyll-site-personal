@@ -32,16 +32,15 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
 # Adjusts the setting of the top navigation set  
 header_pages:
   - about.md
   - portfolio.md
   - contact.md
+
 # Build the SASS files and converts them to CSS files  
 sass:
-    sass_dir: _sass
-    sass_dir: _sass/custom
-    sass_dir: _sass/minima
     style: compressed
 
 # Exclude from processing.

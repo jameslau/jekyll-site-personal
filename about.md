@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my site! My name is James Lau. I’m a Boston based front-end web developer with a background in graphic design. I’ve worked with a wide range of clients and projects over the years; combined work from print, mobile, and the web.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Most recently, I’ve been concentrating my focus on front-end development with specific attention to user interface and user experiences through development.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+When not working on web development you can catch me taking photos of food and checking out foodie spots around the city. I do a ton of Instagramin’ and I also curate a travel blog site called Cultural Hop. Sharing personal traveling advice and experiences for people who are curious about other cultures around the world.
