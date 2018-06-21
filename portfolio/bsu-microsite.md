@@ -4,7 +4,11 @@ title: bridgewater state univeristy
 permalink: /portfolio/bsu-microsite/
 ---
 
-Bridgewater State Univeristy
+<img src="/img/full/bsu/bsu-campaign/full-bsu-homepage.png">
 
+<img src="/img/full/bsu/bsu-campaign/full-bsu-page1.png">
 
-<img src="/img/full/full-kor-homepage.png">
+<img src="/img/full/bsu/bsu-campaign/full-bsu-student-page.png">
+
+<img src="/img/full/bsu/bsu-campaign/full-bsu-dorm-page.png">
+

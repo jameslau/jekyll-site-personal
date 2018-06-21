@@ -4,4 +4,9 @@ title: northland investment corporation
 permalink: /portfolio/northland-website/
 ---
 
-Northland Investment Corporation
+<img src="/img/full/nor/full-northland-homepage.png">
+
+<img src="/img/full/nor/full-northland-teampage.png">
+
+<img src="/img/full/nor/full-northland-projectpage.png">
+

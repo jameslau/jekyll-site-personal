@@ -4,8 +4,10 @@ title: emmanuel college
 permalink: /portfolio/emmanuel-website/
 ---
 
-Emmanuel College: Micro campaign site
+<img src="/img/full/emm/full-emm-homepage.png">
 
-<img src="/img/full/full-bra-homepage.png">
+<img src="/img/full/emm/full-emm-student-stories.png">
 
-<img src="/img/full/full-bra-single-project.png">
+<img src="/img/full/emm/full-emm-locationpage.png">
+
+<img src="/img/full/emm/full-emm-mappage.png">

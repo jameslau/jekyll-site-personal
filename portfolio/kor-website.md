@@ -4,8 +4,11 @@ title: kor group
 permalink: /portfolio/kor-website/
 ---
 
-kor group was founded in 1993 by three women from Boston. Their experitise in print
+<img src="/img/full/kor/full-kor-homepage.png">
 
+<img src="/img/full/kor/full-kor-aboutpage.png">
 
-<img src="/img/full/full-kor-homepage.png">
+<img src="/img/full/kor/full-kor-workpage.png">
+
+<img src="/img/full/kor/full-kor-teampage.png">
 

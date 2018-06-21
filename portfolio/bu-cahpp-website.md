@@ -4,7 +4,7 @@ title: boston university
 permalink: /portfolio/bu-cahpp-website/
 ---
 
-Boston University: Cahpp site
+<img src="/img/full/bu/full-bu-cahpp-homepage.png">
 
+<img src="/img/full/bu/full-bu-cahpp-fspage.png">
 
-<img src="/img/full/full-kor-homepage.png">
