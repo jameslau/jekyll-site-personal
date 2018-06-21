@@ -4,7 +4,11 @@ title: contact
 permalink: /contact/
 ---
 
-<ul class="contact-list">
+
+James Lau<br>
+jamesdylau (at) gmail (dot) com
+
+<!-- <ul class="contact-list">
   <li class="p-name">
     {%- if site.author -%}
       {{ site.author | escape }}
@@ -15,4 +19,4 @@ permalink: /contact/
     {%- if site.email -%}
     <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
     {%- endif -%}
-</ul>
+</ul> -->

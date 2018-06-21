@@ -1,14 +1,15 @@
 
-h1, h2, h3, h4 ,h5, h6 {
+h1, h2, h3, h4 ,h5, h6, .post-title {
 	color: #FF9411;
-	font-family: 'Roboto Slab', serif !important;
+	font-family: 'Work Sans', sans-serif !important;
 }
 
-a, p {
+a, p, pre, code {
 	color: #000000;
-	font-family: 'Work Sans', sans-serif !important;
+	font-family: 'Roboto Mono', monospace !important;
+	font-size: .8rem;
 }
 p.post-meta {
 	color: #CECDCB;
-	font-family: 'Work Sans', sans-serif !important;
+	font-family: 'Roboto Mono', monospace !important;
 }
