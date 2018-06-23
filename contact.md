@@ -5,8 +5,12 @@ permalink: /contact/
 ---
 
 
-James Lau<br>
-jamesdylau (at) gmail (dot) com
+email: jamesdylau (at) gmail (dot) com<br>
+<br>
+<div>
+{%- include social.html -%}
+</div>
+
 
 <!-- <ul class="contact-list">
   <li class="p-name">
