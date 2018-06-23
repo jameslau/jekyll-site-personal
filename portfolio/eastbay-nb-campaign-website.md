@@ -7,6 +7,7 @@ permalink: /portfolio/eastbay-nb-campaign-website/
 Development tool:  WordPress         
 Hosting Provider: Eastbay Servers/New Balance Servers  
 Project lifecycle: 3+ months  
+Website link: Campaign is over. No Link.    
 
 <img src="/img/full/new/eas/playbook/full-eb-nw-pb-homepage.png">
 
