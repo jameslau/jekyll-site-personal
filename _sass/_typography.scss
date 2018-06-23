@@ -5,7 +5,16 @@ h1, h2, h3, h4 ,h5, h6, .post-title {
 	font-size: 1.8rem;
 }
 
-a, p, pre, code {
+a {
+	color: #1756a9;
+	font-family: 'Roboto Mono', monospace !important;
+	font-size: .8rem;
+	&:visited {
+		color: #1756a9;
+	}
+}
+
+p, pre, code {
 	color: #000000;
 	font-family: 'Roboto Mono', monospace !important;
 	font-size: .8rem;
