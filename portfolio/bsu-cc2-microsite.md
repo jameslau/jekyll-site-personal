@@ -1,8 +1,13 @@
 ---
 layout: portfolio
-title: bridgewater state univeristy community college connection
+title: bridgewater state university community college connection
 permalink: /portfolio/bsu-cc2-microsite/
 ---
+
+Development tool:  Drupal 8         
+Hosting Provider: Bridgewater State University Server  
+Project lifecycle: 2 months   
+Website link: [http://opportunities.bridgew.edu/](http://opportunities.bridgew.edu/)   
 
 <img src="/img/full/bsu/bsu-cc2/full-bsu-cc2-campus.png">
 

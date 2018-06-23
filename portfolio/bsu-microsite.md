@@ -1,8 +1,13 @@
 ---
 layout: portfolio
-title: bridgewater state univeristy
+title: bridgewater state university
 permalink: /portfolio/bsu-microsite/
 ---
+
+Development tool:  Drupal 8         
+Hosting Provider: Bridgewater State University Server  
+Project lifecycle: 5 months  
+Website link: [http://opportunities.bridgew.edu/](http://opportunities.bridgew.edu/)   
 
 <img src="/img/full/bsu/bsu-campaign/full-bsu-homepage.png">
 
