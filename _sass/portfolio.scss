@@ -1,0 +1,41 @@
+
+// portfolio styles
+
+.portfolio-grid {
+	main.page-content {
+		.wrapper {
+			padding-left: 0px;
+			padding-right: 0px;
+		}
+	}
+}
+
+// portfolio page styling
+.portfolio-content {
+	img {
+		border: 1px solid #e8e8e8;
+	}
+}
+
+.portfolio-thumb {
+    //border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 1%;
+    min-height: 150px;
+    width: 30%;
+    float: left;
+    position: relative;
+    .portfolio-thumb-link {
+    	position: absolute;
+	    width: 100%;
+	    line-height: 20px;
+	    overflow: hidden;
+	    a {
+	    	img {
+	    		border-radius: 5px;
+	    	}
+	    }
+	}
+}

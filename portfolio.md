@@ -4,13 +4,12 @@ title: portfolio
 permalink: /portfolio/
 ---
 
-Over the years as a front-end developer, I've been fortunate enough to have experienced a variety of companies in the Boston area and to have dabbled with a vast amount of web technologies and tools of the trade.
+Over the years as a front-end developer, I've been fortunate enough to have experienced a variety of companies in the Boston area which allowed me to dabbled with a vast amount of web technologies and tools of the trade. This field is constantly in flux, which means I will always be on my toes for years to come.
 
-Below is a copy of my resume and a sample of some of the work that I am most proud of. Please feel free to contact me if you would like to see more.
+Below is a copy of my resume and a sample of some of the work that I am most proud of. Please feel free to contact me if you would like to see more of my work. 
 
 resume: 
-
-<a href="/james_lau_resume_safe.pdf">download resume</a>
+[download resume]({{ "/james_lau_resume_safe.pdf"}})
 
 portfolio:
 

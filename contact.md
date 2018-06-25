@@ -4,6 +4,7 @@ title: contact
 permalink: /contact/
 ---
 
+I'm always on the internet. Connect with me!
 
 email: jamesdylau (at) gmail (dot) com<br>
 <br>

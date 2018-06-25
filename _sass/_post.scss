@@ -1,0 +1,47 @@
+
+// post page styles
+
+ul.post-list {
+	li {
+		margin-bottom: 10px;
+		span.post-meta {
+			// float: left;
+			// padding-right: 20px;
+			// padding-top: 5px;
+		}
+		h3 {
+			margin-bottom: 10px;
+		}
+	}
+}
+
+.post-header {
+	.post-title {
+		color: #ff9411;
+  		font-family: 'Roboto', sans-serif !important;
+  		font-size: 1.8rem;
+  		margin-bottom: 5px;
+	}
+}
+
+.post-list-heading {
+	    font-size: 1.8rem;
+		font-family: 'Roboto', sans-serif !important;
+}
+
+.post-list {
+	li {
+		h3 {
+			color: #ff9411;
+			font-family: 'Roboto', sans-serif !important;
+			a {
+				color: #ff9411;
+			}
+		}
+	}
+}
+
+// page styling
+.post-content {
+
+}

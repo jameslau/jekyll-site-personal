@@ -1,4 +1,6 @@
 
+// typography styles
+
 h1, h2, h3, h4 ,h5, h6, .post-title {
 	color: #ff9411;
 	font-family: 'Roboto', sans-serif;
@@ -9,6 +11,10 @@ a {
 	color: #1756a9;
 	font-family: 'Roboto Mono', monospace !important;
 	font-size: .8rem;
+}
+
+a.post-link {
+	font-size: 1rem;
 }
 
 p, pre, code {
@@ -23,7 +29,7 @@ figcaption {
 	font-size: .8rem;
 }
 
-p.post-meta {
+ul.post-list > li > span.post-meta, p.post-meta {
 	color: #AFAFAF;
 	font-family: 'Roboto Mono', monospace !important;
 }
