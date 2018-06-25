@@ -43,5 +43,12 @@ ul.post-list {
 
 // page styling
 .post-content {
-
+	p {
+		a {
+			color: #1756a9;
+			&:visited {
+				color: #1756a9;
+			}
+		}
+	}
 }
