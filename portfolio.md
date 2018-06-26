@@ -9,7 +9,8 @@ Over the years as a front-end developer, I've been fortunate enough to have expe
 Below is a copy of my resume and a sample of some of the work that I am most proud of. Please feel free to contact me if you would like to see more of my work. 
 
 resume: 
-[download resume]({{ "/james_lau_resume_safe.pdf"}})
+[download resume (pdf]({{ "/james_lau_resume_safe.pdf"}})
+[download resume (word doc)]({{ "/james_lau_resume_safe.docx"}})
 
 portfolio:
 
