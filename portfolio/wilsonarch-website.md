@@ -4,7 +4,8 @@ title: wilson architects
 permalink: /portfolio/wilsonarch-website/
 ---
 
-Development tool: WordPress         
+Development tool: WordPress    
+Design: Designed by kor group       
 Hosting Provider: Bluehost    
 Project lifecycle: 2+ months (on going maintenance)  
 Website link: [https://www.wilsonarch.com/](https://www.wilsonarch.com/)  

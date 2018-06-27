@@ -4,7 +4,8 @@ title: northland investment corporation
 permalink: /portfolio/northland-website/
 ---
 
-Development tool: WordPress         
+Development tool: WordPress       
+Design: Designed by kor group    
 Hosting Provider: Webfaction  
 Project lifecycle: 2+ months (on going maintenance)  
 Website link: [http://www.northland.com/](http://www.northland.com/)  

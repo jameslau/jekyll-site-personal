@@ -5,6 +5,7 @@ permalink: /portfolio/cop-website/
 ---
 
 Development tool:  WordPress         
+Design: Designed by kor group  
 Hosting Provider: Bluehost  
 Project lifecycle: 3+ months (on going maintenance)  
 Website link: [http://www.creativeofficepavilion.com/](http://www.creativeofficepavilion.com/)   

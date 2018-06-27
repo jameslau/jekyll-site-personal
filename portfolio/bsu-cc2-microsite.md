@@ -5,6 +5,7 @@ permalink: /portfolio/bsu-cc2-microsite/
 ---
 
 Development tool:  Drupal 8         
+Design: Designed by kor group  
 Hosting Provider: Bridgewater State University Server  
 Project lifecycle: 2 months   
 Website link: [http://opportunities.bridgew.edu/](http://opportunities.bridgew.edu/)   

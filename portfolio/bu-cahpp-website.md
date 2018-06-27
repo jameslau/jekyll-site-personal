@@ -5,6 +5,7 @@ permalink: /portfolio/bu-cahpp-website/
 ---
 
 Development tool:  WordPress/Drupal 8         
+Design: Designed by kor group  
 Hosting Provider: AWS/Bluehost/Pantheon  
 Project lifecycle: 10+ months  
 Website link: [http://cahpp.org/](http://cahpp.org/)   

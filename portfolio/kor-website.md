@@ -5,6 +5,7 @@ permalink: /portfolio/kor-website/
 ---
 
 Development tool: WordPress   
+Design: Designed by kor group  
 Hosting Provider: WPEngine   
 Project lifecycle: 3 months  
 Website link: [https://www.kor.com/](https://www.kor.com/)   
