@@ -4,7 +4,7 @@ title: boston financial data services/oakmark funds
 permalink: /portfolio/bfds-oakmark-website/
 ---
 
-Development tool: Custom environment at Boston Financial Data Services
+Development tool: Custom environment at Boston Financial Data Services   
 Design: UI Elements by in-house designer at Boston Financial Data Services    
 Hosting Provider: DST Servers  
 Project lifecycle: 9+ months  
