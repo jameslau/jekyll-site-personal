@@ -17,6 +17,11 @@ portfolio:
   <div class="wrapper">
 
   <div class="portfolio-thumb">
+    <a href="/portfolio/dassault-systemes-solidworks/"><img src="/img/thumbs/thumb-ds-solidworks-homepage.png"></a>
+    <div class="portfolio-thumb-link"><a href="/portfolio/dassault-systemes-solidworks/">Dassault Systemes - Solidworks</a></div>
+  </div>
+
+  <div class="portfolio-thumb">
     <a href="/portfolio/kor-website/"><img src="/img/thumbs/thumb-kor-homepage.png"></a>
     <div class="portfolio-thumb-link"><a href="/portfolio/kor-website/">kor group</a></div>
   </div>
